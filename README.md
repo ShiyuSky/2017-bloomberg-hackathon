@@ -1,4 +1,4 @@
-# 2017 Bloomberg Hackathon held at the University of Waterloo
+# 2017 Bloomberg Hackathon @ University of Waterloo
 
 Date: March 3-4 2017
 My teammates: Jim Yang, David Li
